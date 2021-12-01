@@ -35,3 +35,6 @@ def lab2_d(list):
             print(list[i])
 
 lab2_d(liczby10)
+
+if __name__ == '__main__':
+    app.run(debug=True)
